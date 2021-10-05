@@ -28,9 +28,7 @@
 - This year, the first 55,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
 ***
-<h3 align="center"> Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge. </h3>
 
-***
 ## Rules To Contribute To This Repo
 
 -   You have to create a unique Chrome extension.
